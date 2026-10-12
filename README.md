@@ -1,3 +1,5 @@
-# PSIP_KW_L1
-- Kacper - Legnicki
+# PSIP\_KW\_L1
+
+* Kacper - Legnicki
+* Maciej - kutnowski
 
